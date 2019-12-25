@@ -48,3 +48,7 @@ $ rosrun curb_detec_cpp curb_detec
 
 ![alt text](https://imgshare.io/images/2019/12/25/Selection_001.png)
 
+this will show you the curbs detection only,
+
+if you want to see the lidar data, do the same thing again add a new pointcloud2 data, the topic name is /points_raw
+keep the size of the points smaller and than the curb detection points, and make them different color. This way you can see the different between the point clouds easily. 
