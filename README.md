@@ -45,3 +45,6 @@ $ rosrun curb_detec_cpp curb_detec
 ```
 
 8- setup rviz to see the pointcloud2 data 
+
+![alt text](https://imgshare.io/images/2019/12/25/Selection_001.png)
+
